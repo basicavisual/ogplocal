@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="465.26358mm"
+   height="87.374405mm"
+   viewBox="0 0 465.26357 87.374403"
+   version="1.1"
+   id="svg1814"
+   inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   sodipodi:docname="timeline.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1816"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.32"
+     inkscape:cx="654.6875"
+     inkscape:cy="-29.6875"
+     inkscape:window-width="1848"
+     inkscape:window-height="1136"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-text-baseline="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs1811">
+    <linearGradient
+       id="linearGradient82094"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop82092" />
+    </linearGradient>
+    <rect
+       x="578.51398"
+       y="1644.0878"
+       width="657.13373"
+       height="285.34558"
+       id="rect77912" />
+    <rect
+       x="53.21962"
+       y="104.74662"
+       width="616.24139"
+       height="374.62036"
+       id="rect2625" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath215684">
+      <path
+         d="m 145.96451,152.87125 c -4.07301,0 -7.37949,3.30648 -7.37949,7.37949 0,1.18718 0.61696,2.85778 1.5197,4.60451 1.98977,3.84731 5.30426,8.12598 5.30426,8.12598 0.13354,0.17227 0.33786,0.27242 0.55553,0.27242 0.21768,0 0.422,-0.10015 0.55554,-0.27242 0,0 3.31449,-4.27867 5.30426,-8.12598 0.90274,-1.74673 1.5197,-3.41733 1.5197,-4.60451 0,-4.07301 -3.30648,-7.37949 -7.3795,-7.37949 z m 0,18.51149 c 1.00824,-1.36079 3.16761,-4.38282 4.60985,-7.1725 0.77988,-1.50902 1.36479,-2.93525 1.36479,-3.9595 0,-3.29713 -2.6775,-5.97464 -5.97464,-5.97464 -3.29713,0 -5.97463,2.67751 -5.97463,5.97464 0,1.02425 0.58491,2.45048 1.36479,3.9595 1.44224,2.78968 3.60161,5.81171 4.60984,7.1725 z"
+         stroke-width="1.33542"
+         fill="#000000"
+         id="path215686"
+         style="clip-rule:evenodd;fill:#33e1bd;fill-opacity:1;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-87.801062,-206.23328)">
+    <rect
+       style="fill:#4640f0;fill-opacity:1;stroke:#4640f0;stroke-width:0.930911;stroke-opacity:1"
+       id="rect82090"
+       width="92.328712"
+       height="20.049198"
+       x="88.266518"
+       y="234.75241"
+       ry="10.024599"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2623"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2625);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="3.4802256"
+       y="-77.003548"
+       id="text5447"><tspan
+         sodipodi:role="line"
+         id="tspan5445"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Bold';stroke-width:0.264583"
+         x="3.4802256"
+         y="-77.003548">Problemáticas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="90.570351"
+       y="-43.705059"
+       id="text14753"><tspan
+         sodipodi:role="line"
+         id="tspan14751"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Bold';stroke-width:0.264583"
+         x="90.570351"
+         y="-43.705059">Votaciones</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="208.58401"
+       y="-20.079863"
+       id="text15405"><tspan
+         sodipodi:role="line"
+         id="tspan15403"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Bold';stroke-width:0.264583"
+         x="208.58401"
+         y="-20.079863">Co-creación</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="260.71161"
+       y="-63.043835"
+       id="text18845"><tspan
+         sodipodi:role="line"
+         id="tspan18843"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Bold';stroke-width:0.264583"
+         x="260.71161"
+         y="-63.043835">Compromisos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="40.428997"
+       y="-111.22676"
+       id="text24225"><tspan
+         sodipodi:role="line"
+         id="tspan24223"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Bold';stroke-width:0.264583"
+         x="40.428997"
+         y="-111.22676">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="103.68571"
+       y="-111.15798"
+       id="text25045"><tspan
+         sodipodi:role="line"
+         id="tspan25043"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Bold';stroke-width:0.264583"
+         x="103.68571"
+         y="-111.15798">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="169.62262"
+       y="-111.23206"
+       id="text25527"><tspan
+         sodipodi:role="line"
+         id="tspan25525"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Bold';stroke-width:0.264583"
+         x="169.62262"
+         y="-111.23206">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="254.98766"
+       y="-111.22676"
+       id="text25927"><tspan
+         sodipodi:role="line"
+         id="tspan25925"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Bold';stroke-width:0.264583"
+         x="254.98766"
+         y="-111.22676">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:55.3366;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="28.654129"
+       y="68.197891"
+       id="text29483"
+       transform="translate(-23.201801,-130.50098)"><tspan
+         x="28.654129"
+         y="68.197891"
+         id="tspan222121"><tspan
+           style="font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';text-align:center;text-anchor:middle"
+           id="tspan222119">¿Qué </tspan></tspan><tspan
+         x="28.654129"
+         y="76.898878"
+         id="tspan222125"><tspan
+           style="font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';text-align:center;text-anchor:middle"
+           id="tspan222123">problemáticas </tspan></tspan><tspan
+         x="28.654129"
+         y="85.599867"
+         id="tspan222129"><tspan
+           style="font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';text-align:center;text-anchor:middle"
+           id="tspan222127">identificas en la </tspan></tspan><tspan
+         x="28.654129"
+         y="94.300855"
+         id="tspan222133"><tspan
+           style="font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';text-align:center;text-anchor:middle"
+           id="tspan222131">ciudad?</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:55.3366;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="32.391094"
+       y="68.197891"
+       id="text34945"
+       transform="translate(58.42136,-86.558171)"><tspan
+         x="32.391094"
+         y="68.197891"
+         id="tspan222137"><tspan
+           style="font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';text-align:center;text-anchor:middle"
+           id="tspan222135">Vota por la </tspan></tspan><tspan
+         x="32.391094"
+         y="76.898878"
+         id="tspan222141"><tspan
+           style="font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';text-align:center;text-anchor:middle"
+           id="tspan222139">problemática más </tspan></tspan><tspan
+         x="32.391094"
+         y="85.599867"
+         id="tspan222145"><tspan
+           style="font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';text-align:center;text-anchor:middle"
+           id="tspan222143">relevante. </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:55.3366;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.870398"
+       y="68.197891"
+       id="text36443"
+       transform="translate(180.51758,-61.903535)"><tspan
+         x="31.870398"
+         y="68.197891"
+         id="tspan222149"><tspan
+           style="font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';text-align:center;text-anchor:middle"
+           id="tspan222147">Por cada eje, </tspan></tspan><tspan
+         x="31.870398"
+         y="76.898878"
+         id="tspan222153"><tspan
+           style="font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';text-align:center;text-anchor:middle"
+           id="tspan222151">propondremos </tspan></tspan><tspan
+         x="31.870398"
+         y="85.599867"
+         id="tspan222157"><tspan
+           style="font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';text-align:center;text-anchor:middle"
+           id="tspan222155">soluciones juntas.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:55.3366;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="24.205967"
+       y="68.197891"
+       id="text38829"
+       transform="translate(279.4913,-111.37412)"><tspan
+         x="24.205967"
+         y="68.197891"
+         id="tspan222161"><tspan
+           style="font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';text-align:center;text-anchor:middle"
+           id="tspan222159">La Ciudad </tspan></tspan><tspan
+         x="24.205967"
+         y="76.898878"
+         id="tspan222165"><tspan
+           style="font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';text-align:center;text-anchor:middle"
+           id="tspan222163">ejecutará las </tspan></tspan><tspan
+         x="24.205967"
+         y="85.599867"
+         id="tspan222169"><tspan
+           style="font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';text-align:center;text-anchor:middle"
+           id="tspan222167">soluciones.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text77910"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect77912);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="96.458069"
+       y="248.91211"
+       id="text5447-3"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5445-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="96.458069"
+         y="248.91211">Problemáticas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:69.0295;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="58.848984"
+       y="68.197891"
+       id="text29483-8"
+       transform="translate(40.902929,208.50769)"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         x="58.848984"
+         y="68.197891"
+         id="tspan222173"><tspan
+           style="font-weight:300;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Light';text-align:center;text-anchor:middle"
+           id="tspan222171">¿Cómo te gustaría mejorar </tspan></tspan><tspan
+         x="58.848984"
+         y="75.9321"
+         id="tspan222177"><tspan
+           style="font-weight:300;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Light';text-align:center;text-anchor:middle"
+           id="tspan222175">la ciudad? Nomina tu </tspan></tspan><tspan
+         x="58.848984"
+         y="83.666307"
+         id="tspan222181"><tspan
+           style="font-weight:300;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Light';text-align:center;text-anchor:middle"
+           id="tspan222179">problemática</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#4640f0;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="100.77278"
+       y="267.3168"
+       id="text55951"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan55949"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Bold';fill:#4640f0;fill-opacity:1;stroke-width:0.264583"
+         x="100.77278"
+         y="267.3168">19 julio - 15 de agosto</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#4640f0;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="230.28067"
+       y="248.91211"
+       id="text82512"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan82510"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Bold';fill:#4640f0;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="230.28067"
+         y="248.91211">Votaciones</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#4640f0;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="232.58774"
+       y="267.3168"
+       id="text82524"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan82522"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Bold';fill:#4640f0;fill-opacity:1;stroke-width:0.264583"
+         x="232.58774"
+         y="267.3168">27 - 29 de agosto</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#4640f0;stroke-width:0.930911;stroke-opacity:1"
+       id="rect82526"
+       width="92.328712"
+       height="20.049198"
+       x="212.26782"
+       y="234.75241"
+       ry="10.024599"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#4640f0;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="351.50919"
+       y="248.91211"
+       id="text82530"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan82528"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Bold';fill:#4640f0;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="351.50919"
+         y="248.91211">Co-creación</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:74.2163;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="58.848984"
+       y="68.197891"
+       id="text82538"
+       transform="translate(286.30151,208.50769)"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         x="58.848984"
+         y="68.197891"
+         id="tspan222185"><tspan
+           style="font-weight:300;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Light';text-align:center;text-anchor:middle"
+           id="tspan222183">Diseñaremos proyectos en </tspan></tspan><tspan
+         x="58.848984"
+         y="75.9321"
+         id="tspan222189"><tspan
+           style="font-weight:300;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Light';text-align:center;text-anchor:middle"
+           id="tspan222187">conjunto para atender las </tspan></tspan><tspan
+         x="58.848984"
+         y="83.666307"
+         id="tspan222193"><tspan
+           style="font-weight:300;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Light';text-align:center;text-anchor:middle"
+           id="tspan222191">problemáticas seleccionadas</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#4640f0;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="350.93759"
+       y="267.3168"
+       id="text82542"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan82540"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Bold';fill:#4640f0;fill-opacity:1;stroke-width:0.264583"
+         x="350.93759"
+         y="267.3168">1 - 10 de septiembre</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#4640f0;stroke-width:0.930911;stroke-opacity:1"
+       id="rect82544"
+       width="92.328712"
+       height="20.049198"
+       x="336.26917"
+       y="234.75241"
+       ry="10.024599"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#4640f0;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="470.23471"
+       y="248.91211"
+       id="text82548"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan82546"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Bold';fill:#4640f0;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="470.23471"
+         y="248.91211">Compromisos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:74.2163;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="58.848984"
+       y="68.197891"
+       id="text82556"
+       transform="translate(410.17865,208.50769)"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         x="58.848984"
+         y="68.197891"
+         id="tspan222197"><tspan
+           style="font-weight:300;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Light';text-align:center;text-anchor:middle"
+           id="tspan222195">La ciudad implementará los </tspan></tspan><tspan
+         x="58.848984"
+         y="75.9321"
+         id="tspan222201"><tspan
+           style="font-weight:300;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Light';text-align:center;text-anchor:middle"
+           id="tspan222199">proyectos diseñados. Dales </tspan></tspan><tspan
+         x="58.848984"
+         y="83.666307"
+         id="tspan222205"><tspan
+           style="font-weight:300;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Light';text-align:center;text-anchor:middle"
+           id="tspan222203">seguimiento</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#4640f0;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="479.60297"
+       y="267.3168"
+       id="text82560"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan82558"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Bold';fill:#4640f0;fill-opacity:1;stroke-width:0.264583"
+         x="479.60297"
+         y="267.3168">30 de septiembre</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#4640f0;stroke-width:0.930911;stroke-opacity:1"
+       id="rect82562"
+       width="92.328712"
+       height="20.049198"
+       x="460.27048"
+       y="234.75241"
+       ry="10.024599"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#4640f0;fill-opacity:1;stroke:#4640f0;stroke-width:0.819085;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.819085, 0.819085;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 180.8517,244.77701 h 30.39926"
+       id="path85722"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#4640f0;fill-opacity:1;stroke:#4640f0;stroke-width:0.819085;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.819085, 0.819085;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 305.20593,244.77701 h 30.39926"
+       id="path86034"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#4640f0;fill-opacity:1;stroke:#4640f0;stroke-width:0.819085;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.819085, 0.819085;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 429.31966,244.77701 h 30.39926"
+       id="path86036"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:69.0295;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="58.848984"
+       y="68.197891"
+       id="text171549"
+       transform="translate(164.90988,208.50769)"
+       inkscape:export-filename="/home/ali/Documents/programmes/ruby/OGP_Local/assets/images/timeline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         x="58.848984"
+         y="68.197891"
+         id="tspan222209"><tspan
+           style="font-weight:300;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Light';text-align:center;text-anchor:middle"
+           id="tspan222207">Vota por la problemática </tspan></tspan><tspan
+         x="58.848984"
+         y="75.9321"
+         id="tspan222213"><tspan
+           style="font-weight:300;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Light';text-align:center;text-anchor:middle"
+           id="tspan222211">que creas más relevante en </tspan></tspan><tspan
+         x="58.848984"
+         y="83.666307"
+         id="tspan222217"><tspan
+           style="font-weight:300;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP Light';text-align:center;text-anchor:middle"
+           id="tspan222215">cada eje</tspan></tspan></text>
+    <path
+       d="m 225.90189,119.74272 c -1.74559,0 -3.16303,1.41744 -3.16303,3.16304 0,1.74559 1.41744,3.16303 3.16303,3.16303 1.7456,0 3.16304,-1.41744 3.16304,-3.16303 0,-1.7456 -1.41744,-3.16304 -3.16304,-3.16304 z m 0,1.40612 c 0.96973,0 1.75692,0.7872 1.75692,1.75692 0,0.96972 -0.78719,1.75691 -1.75692,1.75691 -0.96972,0 -1.75691,-0.78719 -1.75691,-1.75691 0,-0.96972 0.78719,-1.75692 1.75691,-1.75692 z"
+       stroke-width="0.491995"
+       fill="#000000"
+       id="path209768"
+       style="clip-rule:evenodd;fill:#33e1bd;fill-opacity:1;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" />
+    <path
+       d="m 252.10144,116.25589 c -4.07301,0 -7.37949,3.30648 -7.37949,7.37949 0,1.18718 0.61696,2.85778 1.5197,4.60451 1.98977,3.84731 5.30426,8.12598 5.30426,8.12598 0.13354,0.17227 0.33786,0.27242 0.55553,0.27242 0.21768,0 0.422,-0.10015 0.55554,-0.27242 0,0 3.31449,-4.27867 5.30426,-8.12598 0.90274,-1.74673 1.5197,-3.41733 1.5197,-4.60451 0,-4.07301 -3.30648,-7.37949 -7.3795,-7.37949 z m 0,18.51149 c 1.00824,-1.36079 3.16761,-4.38282 4.60985,-7.1725 0.77988,-1.50902 1.36479,-2.93525 1.36479,-3.9595 0,-3.29713 -2.6775,-5.97464 -5.97464,-5.97464 -3.29713,0 -5.97463,2.67751 -5.97463,5.97464 0,1.02425 0.58491,2.45048 1.36479,3.9595 1.44224,2.78968 3.60161,5.81171 4.60984,7.1725 z"
+       stroke-width="1.33542"
+       fill="#000000"
+       id="path209770"
+       style="clip-rule:evenodd;fill:#33e1bd;fill-opacity:1;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" />
+    <g
+       id="g218329"
+       transform="translate(-210.82911,-237.52153)"
+       style="fill:#33e1bd;fill-opacity:1">
+      <path
+         id="rect215492"
+         clip-path="url(#clipPath215684)"
+         style="opacity:1;vector-effect:none;fill:#33e1bd;fill-opacity:1;stroke:#4640f0;stroke-width:0.264583;stop-color:#000000;stop-opacity:1"
+         transform="translate(199.29547,290.89212)"
+         d="m 112.34862,130.9792 h 71.12903 c 1.36633,0 2.4663,1.09997 2.4663,2.46631 v 54.88688 c 0,1.36633 -1.09997,2.4663 -2.4663,2.4663 h -71.12903 c -1.36633,0 -2.4663,-1.09997 -2.4663,-2.4663 v -54.88688 c 0,-1.36634 1.09997,-2.46631 2.4663,-2.46631 z" />
+      <path
+         style="fill:#33e1bd;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 345.25998,443.76337 c -4.3493,0.74435 -6.26378,3.14065 -6.77459,6.4893 1.09776,4.87658 4.0518,8.56522 6.50904,12.57179 3.28552,-3.47704 5.71978,-7.74471 6.9933,-13.09047 -1.30694,-2.87552 -2.17192,-6.16923 -6.72775,-5.97062 z"
+         id="path217054" />
+    </g>
+  </g>
+</svg>
