@@ -18,13 +18,17 @@
 // section classes
 
 section
+  padding: 4rem 0
+  &:nth-of-type(even)
+    background-color: #f2f3f7
+    
+
+section div.container
   display: flex
   flex-direction: column
   justify-content: center
-  margin: 3rem auto
   min-height: 300px
-  &:nth-of-type(even)
-    background-color: #E7E9EB
+
     
   
 
@@ -43,13 +47,42 @@ p.section-text
   font-weight: 300
 
 // timeline
-
-
-section.timeline
+ul.timeline
+  list-style-type: none
   display: flex
   justify-content: center
-  width: 1650px
-  margin: 150px auto
+  li
+    margin: 0 2rem
+    width: 300px
+    text-align: center
+    img.numero
+      display: block
+      margin: auto
+    div
+      padding: 1rem 2rem
+      margin: 30px 10px
+      background-color: #ffffff
+      border: 5px solid #4640f0
+      border-radius: 2rem
+      min-width: 215px
+      &.active
+        background-color: #4640f0
+      a
+        font-weight: 900
+        font-size: 1.2rem
+        text-decoration: none
+        color: #4640f0
+        &.active
+          color: #ffffff
+        &:hover
+          text-decoration: underline
+    &::after
+      content: ''
+      z-index: 1000
+      width: 50%
+      height: 5px
+      border-bottom: 15px dashed #0000bf
+
 img.timeline
   display: block
   margin: auto
@@ -65,6 +98,15 @@ img.timeline
   margin-top: 1rem
 .card-text
   font-weight: 300
+
+.card-organizadores
+  min-height: 316px
+
+.card .card-body button a
+  color: #fff
+  text-decoration: none
+  &:hover
+    text-decoration: underline
 
 h5.card-title
   font-weight: bold
