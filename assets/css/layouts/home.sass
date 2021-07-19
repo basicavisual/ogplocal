@@ -2,18 +2,21 @@
 ---
 
 .jumbotron
-  background-image: url('{{site.baseurl}}/assets/images/jumbotron.png')
   background-size: cover
 
 .jumbotron-title
   color: white
   font-weight: bold
 .jumbotron-alcaldias
-  color: white
+  color: #000
 .jumbotron-alcaldias-lista
-  font-size: 1.7rem
+  font-size: 1.2rem
+  font-weight: 300
   font-variation-settings: 'wght' 300
 
+.hero-person
+  height: 400px
+  margin: 0px 30px
 
 // section classes
 
@@ -55,16 +58,23 @@ ul.timeline
     margin: 0 2rem
     width: 300px
     text-align: center
+    display: block
+    position: relative
     img.numero
       display: block
       margin: auto
+    p.timeline-fecha
+      font-weight: 500
+      color: #4640f0
+      margin: 10px auto
     div
       padding: 1rem 2rem
-      margin: 30px 10px
+      margin: 15px 10px
       background-color: #ffffff
       border: 5px solid #4640f0
       border-radius: 2rem
       min-width: 215px
+      position: relative
       &.active
         background-color: #4640f0
       a
@@ -76,13 +86,26 @@ ul.timeline
           color: #ffffff
         &:hover
           text-decoration: underline
-    &::after
-      content: ''
-      z-index: 1000
-      width: 50%
-      height: 5px
-      border-bottom: 15px dashed #0000bf
+    // div:after
+    //   content: ''
+    //   position: absolute
+    //   display: block
+    //   top: 50%
+    //   z-index: 1000
+    //   width: 40%
+    //   left: 210px
+    //   height: 5px
+    //   border-bottom: 2px dashed #0000bf
+    // div:after:last-child
+    //   border-bottom: 0px
 
+p.ejes
+  text-align: center
+  font-weight: 300
+
+i.ejes-icons
+  font-size: 100px
+  margin: 20px auto
 img.timeline
   display: block
   margin: auto
@@ -110,3 +133,13 @@ img.timeline
 
 h5.card-title
   font-weight: bold
+
+
+footer.footer
+  color: #fff
+  padding: 50px
+
+img.footer-logo
+  height: 60px
+  margin: 0 30px 0 0
+
