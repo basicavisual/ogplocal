@@ -23,10 +23,7 @@
 // section classes
 
 section
-  padding: 4rem 0
-  &:nth-of-type(even)
-    background-color: #f2f3f7
-    
+  padding: 2rem 0
 
 section div.container
   display: flex
@@ -34,13 +31,20 @@ section div.container
   justify-content: center
   min-height: 300px
 
-    
-  
 
+.rounded-corners
+  border-radius: 1.3rem
 
+section#participa
+  background-image: linear-gradient(to right, #312bd8, #7d78f9)
+  // background-image: url('{{ site.baseurl }}/assets/images/middle.svg')
+  // background-size: cover
+.text-white
+  color: #fff
+.ondita
+  margin: -1px auto
+  width: 100%
 section h2
-  // font-variation-settings: 'wght' 900
-  // font-weight: 900
   font-weight: 900
   font-size: 2.9rem
 
@@ -50,6 +54,9 @@ p.section-text
   max-width: 1100px
   margin: auto
   font-weight: 300
+.participa-card
+  width: 350px
+  padding: 2rem
 
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link .bg-blue
   background-color: #4640f0 !important
@@ -127,10 +134,14 @@ img.timeline
   margin-top: 1rem
 .card-text
   font-weight: 300
+ol.card-text
+  padding-left: 1rem
 
 .card-organizadores
-  min-height: 316px
-
+  padding: 1.3rem
+  width: 350px
+  border-color: transparent
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px
 .card .card-body button a
   color: #fff
   text-decoration: none
@@ -140,10 +151,23 @@ img.timeline
 h5.card-title
   font-weight: bold
 
-
+.title-organizan
+  margin: 0 auto 3rem auto
 footer.footer
   color: #fff
   padding: 50px
+  background-color: #333
+  
+  div
+    align-items: center
+  p
+    font-weight: 300
+    margin: 2px auto
+    font-size: 14px
+div.footer-boxes
+  margin: 1rem 2rem
+  a
+    color: #fff
 
 img.footer-logo
   height: 60px
