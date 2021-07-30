@@ -20,8 +20,39 @@
   height: 400px
   margin: 0px 30px
 
-// section classes
+.alianza-logo
+  width: 100%
 
+@media (max-width: 576px)
+  .jumbotron-flex
+    flex-direction: column
+  .hero-person
+    display: none
+  ul.timeline
+    flex-direction: column
+  footer.footer div
+    flex-direction: column
+    align-items: flex-start !important
+  .jumbotron-alcaldias-title
+    font-size: 1rem
+  p.section-text
+    padding: 0 1.5rem !important
+  .nav-flex
+    display: none
+  .monitos
+    display: flex !important
+    text-align: center
+    height: 170px
+    margin: auto
+  ul.timeline li div
+    width: 100px !important
+    margin: 15px auto !important
+  ul.timeline li div a
+    font-size: .9rem !important
+
+// section classes
+.monitos
+  display: none
 section
   padding: 2rem 0
 
@@ -58,6 +89,11 @@ p.section-text
   width: 350px
   padding: 2rem
 
+.nav-flex
+  align-items: center
+.card
+  margin: 1rem auto
+
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link .bg-blue
   background-color: #4640f0 !important
 a.inactive
@@ -66,6 +102,7 @@ a.inactive
 ul.timeline
   list-style-type: none
   display: flex
+  padding-left: 0
   justify-content: center
   li
     margin: 0 2rem
@@ -148,9 +185,14 @@ ol.card-text
   &:hover
     text-decoration: underline
 
+
 h5.card-title
   font-weight: bold
-
+p.timeline-numeros
+  font-weight: 900
+  color: #e16b80
+  font-size: 2.5rem
+  display: none
 .title-organizan
   margin: 0 auto 3rem auto
 footer.footer
