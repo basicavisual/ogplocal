@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ciudad de México y fortalecer el modelo de gobierno abierto en la capital,
   mediante acciones de apertura con un enfoque de Derechos Humanos y
   Perspectiva de Género de manera transversal.
-baseurl: /ogplocal # the subpath of your site, e.g. /blog
+baseurl: / # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: GobCDMX
 github_username:  GobCDMX
